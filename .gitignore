@@ -1,0 +1,11 @@
+# Java Files
+*.class
+*/bin/
+
+#Eclipse Files
+.classpath
+.project
+.settings/
+
+#Mine Files
+*/test/
