@@ -9,3 +9,10 @@
 
 #Mine Files
 */test/
+
+#PyCharm
+*/.idea/
+*/__pycache__/
+
+#python
+.pyc
